@@ -1,0 +1,10 @@
+{
+  "generator-angm": {
+    "appName": "l2acp",
+    "angularCookies": true,
+    "angularAnimate": true,
+    "angularSanitize": true,
+    "angularBootstrap": false,
+    "angularMaterial": true
+  }
+}
